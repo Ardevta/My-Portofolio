@@ -1,0 +1,95 @@
+#home {
+  background: url(img/Nero.jpg) no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+
+.padding {
+  padding: 30px;
+}
+
+.landing-text {
+  padding: 230px 0px;
+  display: table-cell;
+  text-align: center;
+  text-shadow: 2px 2px #000000;
+  vertical-align: middle;
+  color: rgb(199, 199, 199);
+  
+}
+
+.landing-text h1 {
+  font-size: 400%;
+  font-weight: 500;
+}
+
+.padding-anu h3 {
+  text-align:center;
+}
+
+.coding{
+  text-align: center;
+}
+
+.h4 {
+  text-align: center;
+  font-size:xx-large;
+}
+
+.about-metitle h1 {
+  padding: 20px 0px;
+}
+
+.about-me {
+  padding: 0px 40px;
+}
+
+.about-me2 {
+  font-size: medium
+}
+
+#keluarga {
+  background: url(img/Keluarga.jpg) no-repeat center center fixed;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+}
+
+.padding2 {
+  padding: 225px 0;
+}
+
+.padding3 {
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+.padding4 {
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.padding4 h4{
+  font-size: xx-large
+}
+
+.padding5 {
+  padding-bottom: 20px;	
+}
+
+.padding6{
+  padding-top: 100px;
+}
+
+#background {
+  background-color:rgb(51, 51, 51);
+}
+
+.computer-gambar {
+  text-align: center;
+}
